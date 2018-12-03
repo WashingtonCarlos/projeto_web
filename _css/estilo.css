@@ -1,0 +1,196 @@
+@charset "UTF-8";
+@font-face {
+	font-family: 'FonteLogo' ;
+	src: url('_fonts/_leafy_glade.eot');
+}
+
+body{
+	width: 100%;
+	margin: auto;
+	font-family: Arial, sans-serif;
+	background-color: rgba(70,163,72,255);
+	color: rgba(70,163,72,255);
+}
+
+a:hover {
+	text-decoration: underline;
+}
+header#cabecalho h1 {
+	position: absolute;
+	font-family: "FonteLogo", sans-serif;
+	font-size: 30pt;
+	color: rgba(70,163,72,255);
+	text-shadow: 5px 5px 1px rgba(0,0,0,.6);
+	margin-bottom: 0px;
+	margin-top: 40px;
+	width: 100px;
+}
+header#cabecalho h2 {
+	position: absolute;
+	font-family: "FonteLogo", sans-serif;
+	color: rgba(70,163,72,255);
+	text-shadow: 5px 5px 1px rgba(0,0,0,.6);
+	font-size: 15pt;
+	margin-top: 100px;
+}
+hgroup {
+	margin-left: 200px;
+}
+nav#menu {
+	display: block;
+}
+nav#menu li {
+	display: inline-block;
+	background-color: #dddddd;
+	padding: 10px;
+	margin: 2px;
+	transition: background-color 1s;
+}
+
+nav#menu li:hover {
+	background-color: rgba(70,163,72,255);
+}
+
+nav#menu h1 {
+	display: none;
+}
+
+nav#menu a {
+	color: #000000;
+	text-decoration: none;
+}
+
+nav#menu a:hover {
+	color: #ffffff;
+}
+header img#icone {
+	position: absolute;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	left: 100px; 
+	top: 0px;
+}
+header img#fundo {
+	margin-bottom: -50px;
+	margin-top: -80px;
+	left: 0px;
+	top: 0px;
+}
+section img#bv1 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 80px;
+	height: 70px;
+	left: 80px;
+	top: -600px;
+}
+section img#bv2 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 80px;
+	height: 70px;
+	left: 85px;
+	top: -600px;
+}
+section img#bv3 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 100px;
+	height: 70px;
+	left: 90px;
+	top: -600px;
+}
+section img#hifen {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 50px;
+	height: 20px;
+	left: 91px;
+	top: -620px;
+}
+section img#bv4 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 80px;
+	height: 70px;
+	left: 92px;
+	top: -600px;
+}
+section img#bv5 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 70px;
+	height: 70px;
+	left: 93px;
+	top: -600px;
+}
+section img#bv6 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 70px;
+	height: 70px;
+	left: 94px;
+	top: -600px;
+}
+section img#bv7 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 70px;
+	height: 70px;
+	left: 94px;
+	top: -600px;
+}
+section img#bv8 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 70px;
+	height: 70px;
+	left: 94px;
+	top: -600px;
+}
+div#interface {
+	background-color: #ffffff;
+	width: 900px;
+	margin: -20px auto 0px auto;
+	box-shadow: 0px 0px 10px black;
+	padding: 10px 10px 10px 10px;
+}
+div#redes_sociais {
+	background-color: #00FF7F;
+	width: 900px;
+	height: 120px;
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+footer#rodape a#face img {
+	width: 40px;
+	color: #006400;
+}
+footer#rodape a#insta img {
+	width: 45px;
+	color: #006400;
+}

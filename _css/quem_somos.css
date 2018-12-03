@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+section img#qs1 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 40px;
+	height: 35px;
+	left: 80px;
+	top: -800px;
+}
+section img#qs2 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 40px;
+	height: 35px;
+	left: 85px;
+	top: -800px;
+}
+section img#qs3 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 50px;
+	height: 35px;
+	left: 90px;
+	top: -800px;
+}
+section img#qs4 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 40px;
+	height: 35px;
+	left: 91px;
+	top: -800px;
+}
+section img#qs5 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 40px;
+	height: 35px;
+	left: 120px;
+	top: -800px;
+}
+section img#qs6 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 35px;
+	height: 35px;
+	left: 121px;
+	top: -800px;
+}
+section img#qs7 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 35px;
+	height: 35px;
+	left: 122px;
+	top: -800px;
+}
+section img#qs8 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 35px;
+	height: 35px;
+	left: 123px;
+	top: -800px;
+}
+section img#qs9 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 35px;
+	height: 35px;
+	left: 124px;
+	top: -800px;
+}
+
+section img#qs10 {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 25px;
+	height: 25px;
+	left: 124px;
+	top: -805px;
+}
+
+section#corpo div#texto  {
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	top: -780px;
+	left: 85px;
+	width: 600px;
+	height: auto;
+	background-color: #ffffff;
+}
+
+section#corpo p#somos {
+	text-align: justify;
+	font-size: 14pt;
+	font-weight: bold;
+	text-indent: 50px;
+}
